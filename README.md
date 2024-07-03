@@ -3,11 +3,10 @@
   Clustering in Pure-Attention Hardmax Transformers and its Role in Sentiment Analysis
 </h1>
 
-<!-- <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
-  <img src="https://zenodo.org/badge/DOI/arxiv.org/abs/xxxx.xxxxx.svg">
+<p align="center">
+  <a href="https://arxiv.org/abs/2407.01602">
   </a>
-</p> -->
+</p>
 
 `Python` code for the paper 
 **Clustering in Pure-Attention Hardmax Transformers and its Role in Sentiment Analysis** by Albert Alcalde, Giovanni Fantuzzi, and Enrique Zuazua. 
@@ -35,16 +34,16 @@ We read and batch the preprocessed data, define the hyperparameters, train the m
 * `graphics.py`, includes the functions needed for plotting the results.
 * `models.py`, includes the definition of our transformer-based classifier, the encoder, hardmax dynamics and decoder.
 * `training.py`, includes the functions needed for the training process.
-<!--
+
 ## Citation
 
- ```bibtex
-@article{alcalde2024clusteringhardmax,
+```bibtex
+@article{alcalde2024clustering,
       title={Clustering in Pure-Attention Hardmax Transformers and its Role in Sentiment Analysis}, 
       author={Albert Alcalde and Giovanni Fantuzzi and Enrique Zuazua},
       year={2024},
-      eprint={},
+      eprint={2407.01602},
       archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      primaryClass={cs.CL}
 }
-``` -->
+```
