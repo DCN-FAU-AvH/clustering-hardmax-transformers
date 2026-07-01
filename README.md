@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2407.01602">
+  <a href="https://epubs.siam.org/doi/abs/10.1137/24M167086X">
   </a>
 </p>
 
@@ -38,12 +38,20 @@ We read and batch the preprocessed data, define the hyperparameters, train the m
 ## Citation
 
 ```bibtex
-@article{alcalde2024clustering,
-      title={Clustering in Pure-Attention Hardmax Transformers and its Role in Sentiment Analysis}, 
-      author={Albert Alcalde and Giovanni Fantuzzi and Enrique Zuazua},
-      year={2024},
-      eprint={2407.01602},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{alcalde2025clustering,
+  title={Clustering in pure-attention hardmax transformers and its role in sentiment analysis},
+  author={Alcalde, Albert and Fantuzzi, Giovanni and Zuazua, Enrique},
+  journal={SIAM Journal on Mathematics of Data Science},
+  volume={7},
+  number={3},
+  pages={1367--1393},
+  year={2025},
+  publisher={SIAM}
 }
 ```
+
+## Funding & Acknowledgments
+Funded by the European Union’s Horizon Europe MSCA project [ModConFlex](https://modconflex.uni-wuppertal.de/en/) (grant number 101073558).
+
+<img src="./logos/logo-01.jpg" alt="ModConFlex" height="64"/> <img src="./logos/logo-02.png" alt="Funded by the EU" height="64"/>
+
